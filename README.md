@@ -1,5 +1,5 @@
 # Hi there! I'm Ahmed Galal 👋 🕸️
-### Software Engineer | AI Enthusiast | Game Developer | Web Builder
+### Software Nerd | AI Enthusiast | Game Developer | Web Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Galal&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
