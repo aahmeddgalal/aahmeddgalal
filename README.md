@@ -47,21 +47,6 @@ I'm a software enthusiast who enjoys turning ideas into real, working systems. I
 
 ---
 
-### 🕸️ My Recent Projects
-
-<div align="center">
-  <a href="https://github.com/aahmeddgalal/Soul-Hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aahmeddgalal&repo=Soul-Hub&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/aahmeddgalal/GameDevelopmentLearningCS50">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aahmeddgalal&repo=GameDevelopmentLearningCS50&theme=tokyonight&show_owner=true" />
-  </a>
-</div>
-
----
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
