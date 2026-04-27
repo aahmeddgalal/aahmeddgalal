@@ -11,17 +11,19 @@
 
 I'm a software enthusiast who enjoys turning ideas into real, working systems. I started with frontend development and am now swinging into the deeper realms of:
 
-* 🧠 **Artificial Intelligence** (Python + ML foundations)
-* 🎮 **Game Development** (Creative coding + logic systems)
-* 🌐 **Web Development** (Building real-world products)
+* 🧑🏻‍💻 **I'm trying to achieve my childhood dream of becoming a Software engineer in big tech**
+* 🧠 **Full Stack development** 
+* 🎮 **Game Development** 
+> 💬 I build stuff for fun… and yeah, I'm secretly Spider-Man, don't tell! 🕷️
 
-> 💬 I build stuff for fun… and yes, I may or may not be Spider-Man. 🕷️
+<img width="498" height="298" alt="CoreKeeperCoreGIF" src="https://github.com/user-attachments/assets/a31eb1a9-7f8f-4b02-9c56-3aef39cefdc6" />
+
 
 ---
 
 ### 🛠️ My Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,react,git,html,css,react,lua" />
   </a>
@@ -49,7 +51,7 @@ I'm a software enthusiast who enjoys turning ideas into real, working systems. I
 
 ### 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/aahmeddgalal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
