@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-I'm a software enthusiast who enjoys turning ideas into real, working systems. I started with frontend development and am now swinging into the deeper realms of:
+I'm a software enthusiast who enjoys turning ideas into real stuff! I have decent knowledge in GameDev, but currently and for the next couple of years -->
 
-* 🧑🏻‍💻 **I'm trying to achieve my childhood dream of becoming a Software engineer in big tech**
+* 🧑🏻‍💻 **Trying to achieve my childhood dream of becoming a Software engineer in big tech**
 * 🧠 **Full Stack development** 
-* 🎮 **Game Development** 
+* 💽 **AI development** 
 > 💬 I build stuff for fun… and yeah, I'm secretly Spider-Man, don't tell! 🕷️
 
 <img width="498" height="298" alt="CoreKeeperCoreGIF" src="https://github.com/user-attachments/assets/a31eb1a9-7f8f-4b02-9c56-3aef39cefdc6" />
