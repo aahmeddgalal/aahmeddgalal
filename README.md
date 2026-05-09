@@ -35,14 +35,6 @@ I'm a software enthusiast who enjoys turning ideas into real stuff! I have decen
 
 <p align="center">
   <a href="https://github.com/aahmeddgalal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahmeddgalal&layout=compact&langs_count=4&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/aahmeddgalal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aahmeddgalal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ahmed's Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/aahmeddgalal">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aahmeddgalal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
