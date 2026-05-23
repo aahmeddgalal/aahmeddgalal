@@ -27,7 +27,7 @@ I'm a software enthusiast who enjoys turning ideas into real stuff! I have decen
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,lua,c" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,lua,c,git" />
   </a>
 </p>
 
