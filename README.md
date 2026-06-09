@@ -19,7 +19,8 @@ I'm a software enthusiast who enjoys turning ideas into real stuff! I have decen
 > 💬 I build stuff for fun… and yeah, I'm secretly Spider-Man, don't tell! 🕷️
 
 > This is Neil, honestly, I feel the same as him acting while coding or studying programming, but as you know, nothing is perfect, my family is also as bad as his father :( They are trying to make me a doctor by force, and, bro, I hate medicine, but they don't listen. Im actually planning on leaving the house once I get enough money. God Help!
-<img width="498" height="280" alt="NeilPerryRobertSeanLeonardGIF (2)" src="https://github.com/user-attachments/assets/a26ea4fe-f2a5-4eec-abc3-4e84ef001399" />
+
+<img width="498" height="280" alt="NeilPerryRobertSeanLeonardGIF (2)" src="https://github.com/user-attachments/assets/a26ea4fe-f2a5-4eec-abc3-4e84ef001399"/>
 
 
 
