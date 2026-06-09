@@ -19,6 +19,8 @@ I'm a software enthusiast who enjoys turning ideas into real stuff! I have decen
 > 💬 I build stuff for fun… and yeah, I'm secretly Spider-Man, don't tell! 🕷️
 
 <img width="498" height="298" alt="CoreKeeperCoreGIF" src="https://github.com/user-attachments/assets/a31eb1a9-7f8f-4b02-9c56-3aef39cefdc6" />
+<img width="498" height="409" alt="NeilPerryRobertSeanLeonardGIF" src="https://github.com/user-attachments/assets/464a07e8-b7fd-47b2-aaba-a31aac180e4d" />
+
 
 
 ---
