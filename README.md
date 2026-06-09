@@ -20,7 +20,8 @@ I'm a software enthusiast who enjoys turning ideas into real stuff! I have decen
 
 > This is Neil, honestly, I feel the same as him acting while coding or studying programming, but as you know, nothing is perfect, my family is also as bad as his father :( They are trying to make me a doctor by force, and, bro, I hate medicine, but they don't listen. Im actually planning on leaving the house once I get enough money. God Help!
 
-<img width="498" height="280" alt="NeilPerryRobertSeanLeonardGIF (2)" src="https://github.com/user-attachments/assets/a26ea4fe-f2a5-4eec-abc3-4e84ef001399"/>
+<img width="498" height="409" alt="NeilPerryRobertSeanLeonardGIF" src="https://github.com/user-attachments/assets/dc908596-6dc2-4112-adf8-1bb28b6f5a6f" />
+
 
 
 
