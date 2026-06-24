@@ -34,7 +34,7 @@ I'm a software enthusiast who enjoys turning ideas into real stuff! I have decen
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,lua,c,git,react,vite,tailwind,next,supabase,sql" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,lua,c,git,react,vite,tailwind,next,supabase,mysql" />
   </a>
 </p>
 
