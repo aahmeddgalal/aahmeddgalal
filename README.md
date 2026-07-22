@@ -1,89 +1,90 @@
-# Hi there! I'm Ahmed Galal 👋🕸️
-### Software Nerd
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Galal&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
-
----
-
-### 🚀 About Me
-
-I'm a software enthusiast who enjoys turning ideas into real stuff! I have decent knowledge in GameDev, but currently and for the next couple of years -->
-
-* 🧑🏻‍💻 **Trying to achieve my childhood dream of becoming a Software engineer in big tech**
-* 🧠 **Full Stack development**
-* 🎮 **Sometimes GameDev** 
-* 💽 **AI development** 
-
-> 💬 I build stuff for fun… and yeah, I'm secretly Spider-Man, don't tell! 🕷️
 
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Galal&fontSize=80&animation=fadeIn&fontAlignY=38" width="100%" />
 
+### *“With great power comes great code.”* 🕷️⚡
 
-
-
-
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
+### 💻 About Me
+
+I’m a software enthusiast who loves turning complex logic and wild ideas into real, functional tools. Right now, my main quests are:
+
+* 🚀 **Chasing the big-tech dream** & building serious engineering chops
+* 🧠 **Architecting Full-Stack applications** from the metal up
+* 💽 **Exploring AI development** & computer vision scripts
+* 🎮 **Hacking on GameDev** whenever creativity strikes
+
+> *“I build stuff for fun… and yeah, I'm secretly Spider-Man, don't tell anyone!”* 🤫🕸️
+
+---
+
+### 🛠️ The Arsenal
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Core** | `Python`, `JavaScript`, `Lua`, `C`, `HTML`, `CSS` |
+| **Frontend & UI** | `React`, `Next.js`, `Vite`, `Tailwind CSS` |
+| **Backend & Data** | `Node.js`, `Supabase`, `PostgreSQL`, `Git` |
+
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,lua,c,git,react,vite,tailwind,next,postgres,supabase" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,lua,c,git,react,vite,tailwind,next,postgres,supabase" alt="Skill Icons" />
   </a>
 </p>
 
 ---
 
-### 📊 My GitHub Insights
+### 📈 GitHub Stats
+
+<div align="center">
 
 <p align="center">
   <a href="https://github.com/aahmeddgalal">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aahmeddgalal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aahmeddgalal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
   </a>
 </p>
+
+</div>
 
 ---
 
-### 🤝 Connect with Me
+### 🌐 Connect & Code
 
-<p align="center">
-  <a href="https://linkedin.com/in/aahmeddgalal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/aahmeddgalal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/aahmeddgalal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.youtube.com/@galileo.creats" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.com/users/galileospacee" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://bsky.app/profile/aahmeddgalal.bsky.social" target="_blank">
-  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-</a>
-  <a href="https://www.instagram.com/galileo.creats/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aahmeddgalal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aahmeddgalal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aahmeddgalal)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@galileo.creats)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/galileospacee)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/aahmeddgalal.bsky.social)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/galileo.creats/)
+
+</div>
 
 ---
 
-### ☕ Support My Creativity
+### ☕ Fuel the Terminal
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/aahmeddgalal">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aahmeddgalal&label=Profile%20views&color=0e75b6&style=flat-square" alt="aahmeddgalal" />
-</p>
+<a href="https://www.buymeacoffee.com/aahmeddgalal">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=aahmeddgalal&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+
+</div>
