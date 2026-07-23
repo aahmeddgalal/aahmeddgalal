@@ -50,9 +50,9 @@ I’m a software enthusiast who loves turning complex logic and wild ideas into 
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/aahmeddgalal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aahmeddgalal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
-  </a>
+ <a href="https://github.com/aahmeddgalal">
+  <img src="https://streak-stats.demolab.com?user=aahmeddgalal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak"/>
+</a>
 </p>
 
 </div>
