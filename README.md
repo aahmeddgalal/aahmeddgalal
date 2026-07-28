@@ -53,7 +53,8 @@ I’m a software enthusiast who loves turning complex logic and wild ideas into 
  <!-- <a href="https://github.com/aahmeddgalal">
   <img src="https://streak-stats.demolab.com?user=aahmeddgalal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak"/>
 </a> -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aahmeddgalal&theme=dark)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aahmeddgalal&theme=dark)](https://git.io/streak-stats) -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aahmeddgalal&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 </div>
