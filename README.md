@@ -50,9 +50,10 @@ I’m a software enthusiast who loves turning complex logic and wild ideas into 
 <div align="center">
 
 <p align="center">
- <a href="https://github.com/aahmeddgalal">
+ <!-- <a href="https://github.com/aahmeddgalal">
   <img src="https://streak-stats.demolab.com?user=aahmeddgalal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak"/>
-</a>
+</a> -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aahmeddgalal&theme=dark)](https://git.io/streak-stats)
 </p>
 
 </div>
