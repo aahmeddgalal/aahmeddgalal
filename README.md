@@ -20,11 +20,3 @@ Outside of programming, I'm interested in science and math. I love to write and 
 [<img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/aahmeddgalal)
 [<img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />](https://youtube.com/@galileo.creats)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aahmeddgalal@gmail.com)
-
-
-# 📊 GitHub Stats:
-<p align="center">
-  <!-- <img src="https://github-readme-stats.shion.dev/api?username=aahmeddgalal&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/> -->
-  <img src="https://streak-stats.demolab.com/?user=aahmeddgalal&theme=dark&hide_border=true" alt="GitHub Streak"><br/>
-</p>
-
