@@ -1,23 +1,24 @@
 ### Hi there, I'm Ahmed
 
-Often known online as **Galileo** — a Software Engineering and Mathematics student based in Egypt.
+Mostly goes with **Galileo** — a CS student based in Egypt.
 
-After two years studying medicine, I pivoted to follow my genuine calling: computer science and applied mathematics. What began as casual curiosity evolved into a dedicated pursuit of building software, solving complex systems, and mastering the theory behind them.
+I’m currently studying Computer Science at MU, building a strong foundation in software engineering, mathematics, and problem-solving. I enjoy building real-world products and have worked on client projects multiple times using technologies like JavaScript, React, Next.js, Supabase, and more.
 
 ---
 
 **Focus Areas**
-* Software Engineering & Mathematics student
-* Deep interest in calculus, mathematical modeling, and systems
-* Long-term ambition: build and scale a major tech enterprise
-* Exploring AI development and game programming
+* Software Engineering & Mathematics (specially calculus)  
+* Building and scaling technology products
+* Exploring AI & game development
+* Problem solving & systems
+* Long-term goal: build a major tech company
 
-**Beyond the Code**
-When I am away from the terminal, I create digital content across YouTube and Instagram, produce visual art, write, and play story-driven video games.
+
+Outside of coding, I’m fascinated by philosophy and science. I also enjoy art, chess, reading, and creating content on<a href="https://youtube.com/@galileo.creats" target="_blank">YT</a>.
 
 ---
 
-#### Connect
+#### Let's connect
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/aahmeddgalal)
 [<img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/aahmeddgalal)
