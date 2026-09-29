@@ -2,19 +2,21 @@
 
 Mostly goes with **Galileo** — a CS student based in Egypt.
 
-I’m currently studying Computer Science at MU, building a strong foundation in software engineering, mathematics, and problem-solving. I enjoy building real-world products and have worked on client projects multiple times using technologies like JavaScript, React, Next.js, Supabase, and more.
+I’m currently studying Computer Science at MU, building a strong foundation in software engineering and mathematics.
+
+I enjoy building real-world products and have worked on client projects, management systems, and healthcare-related software. My background in healthcare comes from studying Medicine for two years before transitioning to Computer Science.
 
 ---
 
 **Focus Areas**
-* Software Engineering & Mathematics (specially calculus)  
+* Software Engineering & Mathematics
 * Building and scaling technology products
 * Exploring AI & game development
 * Problem solving & systems
 * Long-term goal: build a major tech company
 
 
-Outside of coding, I’m fascinated by philosophy and science. I also enjoy art, chess, reading, and creating content on<a href="https://youtube.com/@galileo.creats" target="_blank">YT</a>.
+Outside of work, I’m fascinated by philosophy, astronomy and Physics. I also enjoy art, chess, reading, and creating content on <a href="https://youtube.com/@galileo.creats" target="_blank">YT</a>.
 
 ---
 
