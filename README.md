@@ -18,6 +18,9 @@ I enjoy building real-world products and have worked on client projects, managem
 
 Outside of work, I’m fascinated by philosophy, astronomy and Physics. I also enjoy art, chess, reading, and creating content on <a href="https://youtube.com/@galileo.creats" target="_blank">YT</a>.
 
+
+
+[![Current Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Daahmeddgalal%26type%3Djson&query=%24.currentStreak.length&label=🔥%20Streak&color=ff6b6b&style=flat-square)](https://github.com/aahmeddgalal) [![Longest Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Daahmeddgalal%26type%3Djson&query=%24.longestStreak.length&label=Longest&color=8b5cf6&style=flat-square)](https://github.com/aahmeddgalal) [![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Daahmeddgalal%26type%3Djson&query=%24.totalContributions&label=Contributions&color=2ea44f&style=flat-square)](https://github.com/aahmeddgalal)
 ---
 
 #### Let's connect
